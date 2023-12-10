@@ -24,7 +24,7 @@ async function classifyProduct(productDescription) {
 
     try {
         const response = await openai.chat.completions.create({
-            model: 'gpt-4',
+            model: 'gpt-3.5-turbo',
             messages: messages,
             max_tokens: 60,
             temperature: 0.3,
