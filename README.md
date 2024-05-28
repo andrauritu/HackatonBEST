@@ -11,7 +11,7 @@ Welcome to the HackatonBEST project repository! This project is the outcome of a
 
 ## Project Overview
 
-HackatonBEST is designed to tackle supply management and cost efficiency issues for online retail stores like RetailX. During the hackathon, our team created an AI-powered dashboard web application that leverages advanced data analytics to provide actionable insights and recommendations.
+Our project is designed to tackle supply management and cost efficiency issues for online retail stores like RetailX. During the hackathon, our team created an AI-powered dashboard web application that leverages advanced data analytics to provide actionable insights and recommendations.
 
 ## Features
 
